@@ -508,23 +508,18 @@ models/model_config.json
 
 * The system retrieves the top 5 chunks for every query, so some extra related sources may appear.
 * The confidence score is a simple heuristic based on retrieval distance.
-* Latency is relatively high because the embedding model is loaded during query execution and Gemini API is called externally.
+* Latency is relatively high..
 * The system depends on the quality of text extraction from PDFs.
-* It does not currently use reranking.
-* It does not currently have a frontend interface.
+
 
 ---
 
 ## Future Improvements
-
-* Load the embedding model once during application startup to reduce latency.
-* Add reranking to improve source relevance.
-* Add a relevance threshold to remove weak sources.
 * Improve confidence calculation using multiple retrieved chunks.
 * Add a frontend interface for users.
 * Deploy the FastAPI backend online.
 * Add support for more institutional documents.
-* Add OCR support for scanned PDFs if needed.
+
 
 ---
 
