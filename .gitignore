@@ -1,0 +1,25 @@
+# Secret keys
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac files
+.DS_Store
+
+# ChromaDB vector store
+data/vector_store/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log

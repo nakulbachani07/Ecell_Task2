@@ -1,0 +1,17 @@
+{
+    "embedding_model": "all-MiniLM-L6-v2",
+    "vector_database": "ChromaDB",
+    "llm_model": "gemini-3.5-flash",
+    "chunk_size": 900,
+    "chunk_overlap": 150,
+    "top_k": 5,
+    "confidence_method": "Based on best retrieval distance from ChromaDB",
+    "documents_used": [
+        "FREQUENTLY_ASKED_QUESTIONS.pdf",
+        "Regulations_B.Tech._2024.pdf",
+        "Regulations_PG_2024.pdf",
+        "Regulations_B.Arch._2025.pdf",
+        "RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf",
+        "Students Conduct and Disciplinary Code.pdf"
+    ]
+}

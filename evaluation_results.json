@@ -1,0 +1,176 @@
+[
+    {
+        "query": "What is the attendance requirement in NIT Trichy?",
+        "answer": "The minimum attendance requirement to sit for the semester examinations at NIT Trichy is 75% in every subject. \n\nStudents whose attendance is between 50% and 75% in any given subject must attend mandatory classes after the semester examinations to make up for the lack of attendance in that subject.\n\n**Source:** *FREQUENTLY_ASKED_QUESTIONS.pdf*, Page 1",
+        "confidence": 0.55,
+        "latency_seconds": 19.99,
+        "sources_found": 5,
+        "sources": [
+            {
+                "source_file": "FREQUENTLY_ASKED_QUESTIONS.pdf",
+                "page_number": 1
+            },
+            {
+                "source_file": "Regulations_B.Arch._2025.pdf",
+                "page_number": 11
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 2
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 14
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 19
+            }
+        ]
+    },
+    {
+        "query": "What are Programme Electives in B.Tech?",
+        "answer": "Based on the provided documents, Programme Electives (PE) are a set of specialized, choice-based courses offered by a student's own programme or branch. Unlike mandatory Programme Core courses, they provide flexibility and academic customization, allowing students to deepen their knowledge within their discipline, pursue focused areas of interest, or tailor their learning pathways according to their professional goals or emerging technological domains. \n\n*Source: Regulations_B.Tech._2024.pdf, Page 5 and 6*",
+        "confidence": 0.75,
+        "latency_seconds": 18.4,
+        "sources_found": 4,
+        "sources": [
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 6
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 5
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 4
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 25
+            }
+        ]
+    },
+    {
+        "query": "What is the admission rule for foreign students in PG programmes?",
+        "answer": "According to the regulations, the admission criteria for foreign students (including Foreign Nationals, Persons of Indian Origin (PIOs), Non-Resident Indians (NRIs), and Overseas Citizens of India (OCI)) to PG programmes are governed by the Direct Admission of Students Abroad (DASA) scheme of the Ministry of Education (MoE), Government of India.\n\n**Source:** \n* *Regulations_PG_2024.pdf*, Page 4 (Section M.1.2)",
+        "confidence": 0.75,
+        "latency_seconds": 18.33,
+        "sources_found": 5,
+        "sources": [
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 4
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 22
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 18
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 8
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 2
+            }
+        ]
+    },
+    {
+        "query": "What are microcredit courses in B.Arch?",
+        "answer": "Based on the provided documents, microcredit courses (online and on-campus) in the B.Arch. programme are defined as follows:\n\n* **Purpose:** They are short-duration, credit-bearing courses designed to provide focused learning on specific skills, tools, or emerging topics, and to enhance students’ skills in specific domains of interest.\n* **Credits:** Each course carries 1 or 2 credits.\n* **Classification:** They are considered Open Elective (OE) courses.\n\n**Source:** *Regulations_B.Arch._2025.pdf*, Page 5 & Page 8",
+        "confidence": 0.55,
+        "latency_seconds": 19.97,
+        "sources_found": 5,
+        "sources": [
+            {
+                "source_file": "Regulations_B.Arch._2025.pdf",
+                "page_number": 5
+            },
+            {
+                "source_file": "Regulations_B.Arch._2025.pdf",
+                "page_number": 8
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 7
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 10
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 8
+            }
+        ]
+    },
+    {
+        "query": "Is NIT Trichy a smoking free and alcohol free campus?",
+        "answer": "Yes, NIT Trichy (NITT) is a smoking free and alcohol free campus. Possession or consumption of tobacco, alcohol, narcotic drugs, and other intoxicating substances is strictly prohibited on the campus and in the hostels.\n\n**Sources:**\n* *Students Conduct and Disciplinary Code.pdf*, Page 4\n* *RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf*, Page 16",
+        "confidence": 0.55,
+        "latency_seconds": 17.93,
+        "sources_found": 4,
+        "sources": [
+            {
+                "source_file": "RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf",
+                "page_number": 17
+            },
+            {
+                "source_file": "Students Conduct and Disciplinary Code.pdf",
+                "page_number": 4
+            },
+            {
+                "source_file": "RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf",
+                "page_number": 16
+            },
+            {
+                "source_file": "RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf",
+                "page_number": 10
+            }
+        ]
+    },
+    {
+        "query": "What is the procedure for scholarship and fee reimbursement?",
+        "answer": "Based on the provided documents, the procedure for scholarship and fee reimbursement is as follows:\n\n1. Submit the required list of documents to the Admin with the assistance of the Student Council.\n2. The Institute will then verify the documents and reimburse the previously paid amount.\n\n**Source:** *FREQUENTLY_ASKED_QUESTIONS.pdf, Page 6*",
+        "confidence": 0.75,
+        "latency_seconds": 18.71,
+        "sources_found": 5,
+        "sources": [
+            {
+                "source_file": "FREQUENTLY_ASKED_QUESTIONS.pdf",
+                "page_number": 6
+            },
+            {
+                "source_file": "Regulations_B.Arch._2025.pdf",
+                "page_number": 25
+            },
+            {
+                "source_file": "Regulations_B.Tech._2024.pdf",
+                "page_number": 25
+            },
+            {
+                "source_file": "Regulations_PG_2024.pdf",
+                "page_number": 21
+            },
+            {
+                "source_file": "RULES_REGULATIONS_HOSTEL_RESIDENTS_2025_v2.pdf",
+                "page_number": 3
+            }
+        ]
+    },
+    {
+        "query": "What is the mess menu for Monday?",
+        "answer": "I could not find enough information in the provided documents.",
+        "confidence": 0.3,
+        "latency_seconds": 17.33,
+        "sources_found": 0,
+        "sources": []
+    }
+]
